@@ -1,0 +1,32 @@
+name: quantum_calendar
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.4.3 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
+    - assets/fonts/
+  fonts:
+      - family: Moderniz
+        fonts:
+          - asset: assets/fonts/Moderniz.otf
+      - family: Mulish
+        fonts:
+          - asset: assets/fonts/Mulish-Bold.ttf
+            weight: 700
+          - asset: assets/fonts/Mulish-SemiBold.ttf
+            weight: 600   
