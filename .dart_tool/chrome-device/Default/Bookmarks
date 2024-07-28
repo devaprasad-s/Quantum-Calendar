@@ -1,0 +1,79 @@
+{
+   "checksum": "e4c74438768a6ed801ce34e4cac49079",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13366642190519317",
+            "date_last_used": "0",
+            "guid": "42bd454f-c9ed-4baa-a311-f059eca6a356",
+            "id": "8",
+            "name": "Agoda",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://s3.amazonaws.com/amundsen/redirect/19q2/agoda.html?utm_source=win32&utm_medium=favorite"
+         }, {
+            "date_added": "13366642190518621",
+            "date_last_used": "0",
+            "guid": "cea5b445-7aa2-4d07-904b-1fc895e6106f",
+            "id": "7",
+            "name": "Facebook",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://s3.amazonaws.com/amundsen/redirect/20q2/facebook.html?utm_source=win32&utm_medium=favorite"
+         }, {
+            "children": [ {
+               "date_added": "13323880569834162",
+               "date_last_used": "0",
+               "guid": "21108e4c-643f-4a23-bfc9-d58dd44547f3",
+               "id": "10",
+               "name": "Acer",
+               "show_icon": false,
+               "source": "import_fre",
+               "type": "url",
+               "url": "http://www.acer.com/"
+            } ],
+            "date_added": "13366642195923185",
+            "date_last_used": "0",
+            "date_modified": "0",
+            "guid": "89b237d3-3d42-4e1d-b199-46a7ad1ee981",
+            "id": "9",
+            "name": "Acer",
+            "source": "import_fre",
+            "type": "folder"
+         } ],
+         "date_added": "13366642190151105",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Favourites bar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13366642190151125",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other favourites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13366642190151137",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile favourites",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

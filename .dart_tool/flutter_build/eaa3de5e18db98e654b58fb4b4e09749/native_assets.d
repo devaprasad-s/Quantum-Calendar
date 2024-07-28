@@ -1,0 +1,1 @@
+ D:\\DumbApps\\quantum_calendar\\.dart_tool\\flutter_build\\eaa3de5e18db98e654b58fb4b4e09749\\native_assets.yaml: 
